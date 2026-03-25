@@ -1,4 +1,5 @@
 # Multi-Factor Authentication System
+Authors: Jacob Pugh, Eli Manning, Brandon Magana
 
 A Java implementation of a simplified Multi-Factor Authentication (MFA) system
 that combines password-based login with a secondary verification factor.
